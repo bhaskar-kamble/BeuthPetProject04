@@ -1,0 +1,8 @@
+NormalModesAnimator.py
+setup.py
+PetProject04.egg-info/PKG-INFO
+PetProject04.egg-info/SOURCES.txt
+PetProject04.egg-info/dependency_links.txt
+PetProject04.egg-info/namespace_packages.txt
+PetProject04.egg-info/top_level.txt
+PetProject04.egg-info/zip-safe
